@@ -66,6 +66,6 @@
 ---
 
 ### 🐍 Contribution Snake:
-<p align="center">
-  <img src="https://github.com/Iambharathan/Iambharathan/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
+![snake gif](https://github.com/iambharathan/iambharathan/blob/output/github-contribution-grid-snake.gif)
+
+
