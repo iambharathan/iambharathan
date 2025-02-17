@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋, I'm Bharathan K</h1>
-<h3 align="center">A Developer from India</h3>
+<h1 align="left">Hi 👋, I'm Bharathan K</h1>
+<h3 align="left">I Develop and Maintain stuff</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iambharathan&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://komarev.com/ghpvc/?username=iambharathan&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+    </td>
+    <td align="right">
+      <img src="https://images.app.goo.gl/FNUed4UfYXSnEdXH9" width="200px" alt="programming gif" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -67,5 +74,3 @@
 
 ### 🐍 Contribution Snake:
 ![snake gif](https://github.com/iambharathan/iambharathan/blob/output/github-contribution-grid-snake.gif)
-
-
